@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Recycler_view_WEEK5</string>
+
+    <string-array name="megapixel_full_name">
+
+        <item>Eleven Megapixels</item>
+        <item>Twelve Megapixels</item>
+        <item>Thirteen Megapixels</item>
+        <item>Fourteen Megapixels</item>
+        <item>Fifteen Megapixels</item>
+        <item>Sixteen Megapixels</item>
+        <item>Seventeen Megapixels</item>
+        <item>Eighteen Megapixels</item>
+        <item>Nineteen Megapixels</item>
+        <item>Twenty Megapixels</item>
+
+    </string-array>
+
+    <string-array name="megapixel_number_name">
+
+        <item>11 Megapixels</item>
+        <item>12 Megapixels</item>
+        <item>13 Megapixels</item>
+        <item>14 Megapixels</item>
+        <item>15 Megapixels</item>
+        <item>16 Megapixels</item>
+        <item>17 Megapixels</item>
+        <item>18 Megapixels</item>
+        <item>19 Megapixels</item>
+        <item>20 Megapixels</item>
+
+    </string-array>
+
+    <string-array name="megapixel_abbreviation_name">
+
+        <item>11mp</item>
+        <item>12mp</item>
+        <item>13mp</item>
+        <item>14mp</item>
+        <item>15mp</item>
+        <item>16mp</item>
+        <item>17mp</item>
+        <item>18mp</item>
+        <item>18mp</item>
+        <item>19mp</item>
+        <item>20mp</item>
+
+    </string-array>
+</resources>
